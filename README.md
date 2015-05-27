@@ -1,2 +1,2 @@
-# Crafting iOS Apps
-## Instructor Guides
+# Teaching App Development with Swift
+## Instructor Guides & Lesson Plans
