@@ -1,3 +1,5 @@
+**Note:** The [font dependency is a known issue](https://github.com/SwiftEducation/teaching-app-dev-swift/issues/5) and is a high priority fix, in progress.
+
 # Teaching App Development with Swift
 
 First time seeing these materials? Visit the [Teaching App Development with Swift](http://swifteducation.github.io/teaching_app_development_with_swift/) site.
