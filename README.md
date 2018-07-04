@@ -1,3 +1,7 @@
+## Deprecation Warning
+
+The Swift Education materials are out of date, and are no longer maintained.
+
 # Teaching App Development with Swift
 
 First time seeing these materials? Visit the [Teaching App Development with Swift](http://swifteducation.github.io/teaching_app_development_with_swift/) site.
